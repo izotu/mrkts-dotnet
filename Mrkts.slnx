@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/examples/">
+    <Project Path="examples/Mrkts.Examples.GetToken/Mrkts.Examples.GetToken.csproj" />
+    <Project Path="examples/Mrkts.Examples.PollFeed/Mrkts.Examples.PollFeed.csproj" />
+    <Project Path="examples/Mrkts.Examples.WatchListings/Mrkts.Examples.WatchListings.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Mrkts/Mrkts.csproj" />
+  </Folder>
+</Solution>
